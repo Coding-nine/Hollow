@@ -1,4 +1,4 @@
-# Hollow Bot
+# Mission Bot
 
 A multi-purpose Discord bot built with [discord.py](https://discordpy.readthedocs.io/) 2.x: an economy with a shop, games, a counting channel, moderation with a word-filter automod, per-server settings, and an optional MongoDB-backed level system.
 
