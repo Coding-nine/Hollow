@@ -1,0 +1,4 @@
+discord.py>=2.7,<3
+python-dotenv>=1.0
+# Only needed for the optional level system (cogs/levels.py, enabled by MONGO_URI):
+pymongo>=4.13,<5

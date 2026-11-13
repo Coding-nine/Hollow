@@ -1,0 +1,31 @@
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Bot data (economy balances, warnings, etc. - private user data, don't publish)
+data/*
+!data/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+
+# Replit leftovers
+.replit
+replit.nix
+.pythonlibs/
+.upm/
+.cache/
+.config/
+poetry.lock
+_breakpoints
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store

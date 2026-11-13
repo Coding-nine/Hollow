@@ -1,0 +1,11 @@
+# Tooling config only - this project is run with `python bot.py`, not installed as a package.
+[tool.ruff]
+line-length = 120
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP", "SIM"]
+ignore = ["SIM105"]  # try/except/pass reads fine for "ignore HTTP errors"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

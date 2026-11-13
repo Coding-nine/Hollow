@@ -1,0 +1,66 @@
+# Words the automod deletes (and warns for). One per line, case-insensitive.
+# - Lines starting with # are ignored.
+# - Words match as WHOLE words only (so "cum" won't trigger on "document").
+# - End a word with * to also match longer forms: "fuck*" matches fuck, fucking, fucker...
+# Carried over from the original bot's list (de-duplicated).
+fuck*
+bitch*
+dick
+sex
+sucide
+murder
+khate
+muji
+lado
+ahole
+anus
+ash0le
+ash0les
+asholes
+basterdz
+biatch
+blow job
+boffing
+butthole
+buttwipe
+c0ck
+c0cks
+c0k
+cawk
+cawks
+clit
+cnts
+cntz
+cock
+cockhead
+cock-head
+cocks
+cocksucker
+cock-sucker
+crap
+cum
+cunt
+cunts
+cuntz
+dild0
+dild0s
+dildo
+dildos
+dilld0
+dilld0s
+dominatricks
+dominatrics
+dominatrix
+dyke
+enema
+f u c k
+f u c k e r
+fag
+fag1t
+faget
+fagg1t
+faggit
+faggot
+pussy
+boobs
+yamate kudasai
